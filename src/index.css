@@ -35,6 +35,12 @@ h1 {
   line-height: 1.1;
 }
 
+h2 {
+  font-size: 2.0em;
+  text-align: left;
+  font-weight: 300;
+}
+
 button {
   border-radius: 8px;
   border: 1px solid transparent;
@@ -63,6 +69,7 @@ button:focus-visible {
     color: #747bff;
   }
   button {
-    background-color: #f9f9f9;
+
+    background-color: rgba(125, 255, 0, 0.25);
   }
 }
