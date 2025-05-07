@@ -22,19 +22,19 @@ function App() {
             </section>
             <section className="section" id="features">
                 <h2>Features</h2>
-                <a href="features/feature.html" target="_blank">
+                <a href="/src/features/feature.html" target="_blank">
                     <button>view all features</button>
                 </a>
             </section>
             <section className="section" id="compile-result">
                 <h2>IR Generation on Real Project</h2>
-                <a href="compiler-result/compiler.html" target="_blank">
+                <a href="/src/compiler-result/compiler.html" target="_blank">
                     <button>view all c/c++ projects vast can compile</button>
                 </a>
             </section>
-            <section className="section" id="analysis-result">
+            <section className="section" id="bug-report">
                 <h2>Static Analysis Bug Report</h2>
-                <a href="analysis-result/analysis.html" target="_blank">
+                <a href="/src/bug-report/bug-report.html" target="_blank">
                     <button>view all bug report</button>
                 </a>
             </section>
